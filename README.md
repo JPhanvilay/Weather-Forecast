@@ -9,4 +9,4 @@ Links:
 
 Github Repository Link: https://github.com/JPhanvilay/Weather-Forecast
 
-Deployed Link:
+Deployed Link: https://jphanvilay.github.io/Weather-Forecast/
